@@ -20,4 +20,8 @@ Ideas about the mindmapping tool:
 	- the background must show the movement
 	- webpage as a link or screenshot as a overview
 	
+- Reminder as background tool
+	- add some meetings to the calendar
+		- recurring cycling and so on...
+	
 	
