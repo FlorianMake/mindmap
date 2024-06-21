@@ -15,7 +15,6 @@ public:
 public slots:
     void onOkButtonClick();
 
-
 private:
     QWidget *m_central;
     QPushButton *m_okTestButton;
