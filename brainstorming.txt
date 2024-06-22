@@ -1,5 +1,6 @@
 Ideas about the mindmapping tool:
 
+
 - an general overview shall be available of all mindmaps 
 	- A allready added mindmap looks like a rectangle with an screenshot about the current state or if pretty large with an clip
 	- click on a mindmap for selection an opening one mindmap
@@ -19,9 +20,25 @@ Ideas about the mindmapping tool:
 	- the map shall be dragable or movable
 	- the background must show the movement
 	- webpage as a link or screenshot as a overview
+	- simple drawing funktions
+		- rectangle
+		- combination of nodes with different tips (arrow, point, etc.)
+		- line styles (dotted lines)
+		- curved lines (besier line?!)
+	- grouping of items
+		- add a border or group around different items (with color for background)
+	
+	
 	
 - Reminder as background tool
 	- add some meetings to the calendar
 		- recurring cycling and so on...
+	
+	
+		
+-Look and feel
+	- light mint green background
+	- pastel colors would be nice
+	- slightly round corners and thin light grey edges
 	
 	

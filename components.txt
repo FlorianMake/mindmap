@@ -1,0 +1,10 @@
+Used for development
+
+C++ Qt 6.4
+
+Qt-Widget application with qss styles 
+
+- QGraphics View holds the visualisations
+- json for data storage?!
+- jpg files storage needed?! 
+
