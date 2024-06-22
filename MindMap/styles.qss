@@ -1,0 +1,8 @@
+QWidget {
+    background: gray;
+    color: darkblue;
+}
+
+QPushButton {
+    background: green;
+}

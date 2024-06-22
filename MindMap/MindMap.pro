@@ -19,3 +19,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 HEADERS += \
     mainwindow.hpp
+
+RESOURCES += resources.qrc
+
+DISTFILES +=
