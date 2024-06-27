@@ -43,3 +43,5 @@ Ideas about the mindmapping tool:
 	
 	
 - Exporting a Mindmap to a paper(pdf) or into a presentation-like format or a plain text file - the idea is to collect all data at the first place and bring some structure to it. Then Export it for future usage.
+
+- Tree view for mindmaps - sorted order like the arrows and then they get indented like the structure... 
